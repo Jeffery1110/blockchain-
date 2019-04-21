@@ -1,0 +1,14 @@
+需修改事項
+
+1. member 需要有以下元素
+	* 姓名
+	* 學號
+	* 手機
+	* 錢包地址
+
+# 高語謙
+
+  美化 register.html
+  美化 binding.php
+  新增註冊功能至index.html
+
